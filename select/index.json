@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "しゃかりきトップランナー!",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-10T05:42:48.549579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しゃかりきトップランナー!",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_しゃかりきトップランナー!_FES☆TIVE.txt"
+    }
+  ]
+}
